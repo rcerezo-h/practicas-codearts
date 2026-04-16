@@ -1,3 +1,3 @@
 # practicas-codearts
 
-README de prueba para las prácticas!
+README de prueba para CodeArts!
